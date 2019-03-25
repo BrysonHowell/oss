@@ -1,0 +1,4 @@
+I'd like to select a project that I'm interested in, potentially something that I actually use. I think this would help me identify an issue that I would like to fix or an improvement I could make.
+I am going to search for a standalone project rather than a plugin or library, as I will be able to make changes without worrying too much about compatability with other systems. 
+I would like to select an active project, but one that does not have too many participants. I think that it will be harder for me to find an issue to fix in a project that already has hundreds of developers looking for bugs. A small but active project will have plenty of things that still needs to be done, so I can easily contribute.
+I will also make sure that the project I select is welcoming to new developers. I will check to see if the project has any open issues, and also if there have been at least a few pull requests within this year.
